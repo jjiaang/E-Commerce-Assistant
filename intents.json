@@ -1,0 +1,69 @@
+{"patterns": [
+    {"tag": "(0,Neutral)",
+    "responses": ["Hello", "Hi there"]},
+
+    {"tag": "(0,Positive)",
+    "responses": ["Hello!!!!!!"]},
+
+    {"tag": "(0,Negative)",
+    "responses": ["Hello :("]},
+
+
+
+    {"tag": "(1,Neutral)",
+    "responses": ["You're welcome. Thank you for visiting our website."]},
+
+    {"tag": "(1,Positive)",
+    "responses": ["No problem! Have a great day :)"]},
+
+    {"tag": "(1,Negative)",
+    "responses": ["Bye :|"]},
+
+
+
+
+    {"tag": "(2,Neutral)",
+    "responses": ["We sell Baseball Gear and baseball related items."]},
+
+    {"tag": "(2,Positive)",
+    "responses": ["We sell baseball gear! Alongside with baseball related items, our store is perfect for you."]},
+
+    {"tag": "(2,Negative)",
+    "responses": ["Baseball stuff. Thats it."]},
+
+
+
+
+    {"tag": "(3,Neutral)",
+    "responses": ["Shipping times are roughly 2 weeks. You can expect a confirmation email with details about your order when you order."]},
+
+    {"tag": "(3,Positive)",
+    "responses": ["Glad you asked. Shipping times are roughly 2 weeks from when you place your order. Your email will have a confirmation with details about your order. It might arrive earlier than expected ;)"]},
+
+    {"tag": "(3,Negative)",
+    "responses": ["It takes 2 weeks to ship, check your email for further details. If it takes longer, then its not our problem."]},
+
+
+
+
+    {"tag": "(4,Neutral)",
+    "responses": ["We accept all credit cards."]},
+
+    {"tag": "(4,Positive)",
+    "responses": ["Hi there! We accept all forms of credit cards. If your credit card is not on there, contact us and we can help sort things out!"]},
+
+    {"tag": "(4,Negative)",
+    "responses": ["We accept all credit cards. It's literally on the FAQ's."]},
+
+
+
+
+    {"tag": "(5,Neutral)",
+    "responses": ["Yes Refunds are accepted within 30 days of purchase for an unopened, undamaged item."]},
+
+    {"tag": "(5,Positive)",
+    "responses": ["Refunds are accepted within 30 days usually of a purchase for an unopened, and undamaged item. However if you did open it or anything, we'll see what we can do, no worries!"]},
+
+    {"tag": "(5,Negative)",
+    "responses": ["Refunds are accepted within 30 days of purchase. Read the FAQ's."]}
+]}
