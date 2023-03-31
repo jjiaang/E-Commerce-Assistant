@@ -1,0 +1,147 @@
+Pattern,Greetings,Thanks,Product,Shipping Times,Payments,Refund
+Hello!,1,0,0,0,0,0
+Hi there!,1,0,0,0,0,0
+Good morning!,1,0,0,0,0,0
+Good afternoon!,1,0,0,0,0,0
+Good evening!,1,0,0,0,0,0
+Hey!,1,0,0,0,0,0
+What's up?,1,0,0,0,0,0
+Howdy!,1,0,0,0,0,0
+Greetings!,1,0,0,0,0,0
+Salutations!,1,0,0,0,0,0
+Nice to see you!,1,0,0,0,0,0
+How's life,1,0,0,0,0,0
+What's new?,1,0,0,0,0,0
+Good to talk to you,1,0,0,0,0,0
+Long time no talk!,1,0,0,0,0,0
+Long time no see!,1,0,0,0,0,0
+How have you been?,1,0,0,0,0,0
+How's your day going?,1,0,0,0,0,0
+What have you been up to?,1,0,0,0,0,0
+"Hey, stranger!",1,0,0,0,0,0
+Welcome back!,1,0,0,0,0,0
+Ahoy there!,1,0,0,0,0,0
+How's everything,1,0,0,0,0,0
+Top of the morning to you!,1,0,0,0,0,0
+What's the good word?,1,0,0,0,0,0
+Sup?,1,0,0,0,0,0
+Heya!,1,0,0,0,0,0
+Yo!,1,0,0,0,0,0
+Pleased to meet you,1,0,0,0,0,0
+Wassup?,1,0,0,0,0,0
+Nice to meet you,1,0,0,0,0,0
+How do you do?,1,0,0,0,0,0
+How's it hanging?,1,0,0,0,0,0
+Thank you!,0,1,0,0,0,0
+Thanks!,0,1,0,0,0,0
+I appreciate it!,0,1,0,0,0,0
+Much obliged!,0,1,0,0,0,0
+Many thanks!,0,1,0,0,0,0
+Thanks a lot!,0,1,0,0,0,0
+Thank you kindly!,0,1,0,0,0,0
+You're a lifesaver!,0,1,0,0,0,0
+I owe you one!,0,1,0,0,0,0
+I can't thank you enough!,0,1,0,0,0,0
+Thanks for everything!,0,1,0,0,0,0
+That's so kind of you!,0,1,0,0,0,0
+You're the best!,0,1,0,0,0,0
+I'm grateful for your help!,0,1,0,0,0,0
+You have my gratitude!,0,1,0,0,0,0
+I'm deeply thankful!,0,1,0,0,0,0
+I'm so appreciative!,0,1,0,0,0,0
+You've been so helpful!,0,1,0,0,0,0
+Thank you from the bottom of my heart!,0,1,0,0,0,0
+You're amazing!,0,1,0,0,0,0
+Thanks a ton!,0,1,0,0,0,0
+You're a star!,0,1,0,0,0,0
+I'm in your debt!,0,1,0,0,0,0
+I couldn't have done it without you!,0,1,0,0,0,0
+You're awesome!,0,1,0,0,0,0
+What kind of products do you sell?,0,0,1,0,0,0
+What kind of merchandise do you offer?,0,0,1,0,0,0
+What is your selection of products?,0,0,1,0,0,0
+What kind of things can I buy on your website?,0,0,1,0,0,0
+Can you tell me about the different types of products you offer?,0,0,1,0,0,0
+What is the range of products you have?,0,0,1,0,0,0
+Can you give me an overview of your product line?,0,0,1,0,0,0
+What sorts of goods are sold on your website?,0,0,1,0,0,0
+Do you specialize in any particular type of product?,0,0,1,0,0,0
+What product categories do you carry?,0,0,1,0,0,0
+What kinds of things can I purchase from your website?,0,0,1,0,0,0
+Can you give me some examples of the products you sell?,0,0,1,0,0,0
+What items do you have in your inventory?,0,0,1,0,0,0
+When will my order be delivered?,0,0,0,1,0,0
+How long will it take for my package to arrive?,0,0,0,1,0,0
+Can you give me an idea of when my shipment will arrive?,0,0,0,1,0,0
+What is the expected delivery date for my order?,0,0,0,1,0,0
+How soon can I expect to receive my package?,0,0,0,1,0,0
+When can I anticipate my delivery to arrive?,0,0,0,1,0,0
+What is the estimated time of arrival for my shipment?,0,0,0,1,0,0
+When should I expect my package to be delivered?,0,0,0,1,0,0
+How long does it take for your shipping process to complete?,0,0,0,1,0,0
+Can you provide me with a shipping estimate?,0,0,0,1,0,0
+When will my order be shipped out?,0,0,0,1,0,0
+What is the shipping timeframe for my purchase?,0,0,0,1,0,0
+When can I expect to receive my tracking number?,0,0,0,1,0,0
+How long will it take for my package to be dispatched?,0,0,0,1,0,0
+When will my package be sent out for delivery?,0,0,0,1,0,0
+Can you provide me with an estimated delivery window?,0,0,0,1,0,0
+What is the anticipated delivery time for my order?,0,0,0,1,0,0
+When will my order be ready for pickup or delivery?,0,0,0,1,0,0
+How long does it typically take for packages to be delivered to my area?,0,0,0,1,0,0
+When should I expect to receive my order confirmation and shipping details?,0,0,0,1,0,0
+Can you provide me with an update on the status of my shipment?,0,0,0,1,0,0
+How long does it usually take for packages to arrive from your company?,0,0,0,1,0,0
+When will my package be on its way?,0,0,0,1,0,0
+What is the shipping duration for my order?,0,0,0,1,0,0
+When can I expect my shipment to arrive at my doorstep?,0,0,0,1,0,0
+What payment methods are available for this purchase?,0,0,0,0,1,0
+Do you accept credit card payments?,0,0,0,0,1,0
+What forms of payment do you accept?,0,0,0,0,1,0
+Are there any specific payment methods required for this purchase?,0,0,0,0,1,0
+How can I pay for my order?,0,0,0,0,1,0
+What payment options do I have?,0,0,0,0,1,0
+Do you accept PayPal payments?,0,0,0,0,1,0
+Can I pay with a debit card?,0,0,0,0,1,0
+Which payment methods are supported by your website?,0,0,0,0,1,0
+Are there any restrictions on the payment methods available for this transaction?,0,0,0,0,1,0
+Can I pay with a check?,0,0,0,0,1,0
+What types of credit cards do you accept?,0,0,0,0,1,0
+Is there a preferred payment method for this purchase?,0,0,0,0,1,0
+How can I pay for my order online?,0,0,0,0,1,0
+What payment gateways do you use?,0,0,0,0,1,0
+Can I use Apple Pay or Google Pay?,0,0,0,0,1,0
+Which payment processors do you work with?,0,0,0,0,1,0
+Do you accept payments through bank transfers?,0,0,0,0,1,0
+Are there any fees associated with certain payment methods?,0,0,0,0,1,0
+Can I pay with a gift card or voucher?,0,0,0,0,1,0
+What currencies do you accept for payment?,0,0,0,0,1,0
+How do I make a payment for my order?,0,0,0,0,1,0
+Can I use a prepaid card to make payment?,0,0,0,0,1,0
+What payment methods are accepted for international orders?,0,0,0,0,1,0
+Which payment methods offer the fastest processing time for my order?,0,0,0,0,1,0
+What is your refund policy?,0,0,0,0,0,1
+Can I get a refund for an item I bought on your website?,0,0,0,0,0,1
+How long do I have to request a refund?,0,0,0,0,0,1
+Do I need to provide a reason for requesting a refund?,0,0,0,0,0,1
+Will I receive a full refund or a partial refund?,0,0,0,0,0,1
+How long will it take to receive my refund?,0,0,0,0,0,1
+Will I receive my refund in the same form of payment I used to make the purchase?,0,0,0,0,0,1
+Do I need to return the item to receive a refund?,0,0,0,0,0,1
+Who pays for return shipping?,0,0,0,0,0,1
+Can I exchange an item instead of receiving a refund?,0,0,0,0,0,1
+What if the item I received is damaged or defective?,0,0,0,0,0,1
+What if I received the wrong item?,0,0,0,0,0,1
+Can I cancel my order and receive a refund?,0,0,0,0,0,1
+Are there any items that cannot be returned for a refund?,0,0,0,0,0,1
+What if the item I want to return was a gift?,0,0,0,0,0,1
+Can I return a personalized item for a refund?,0,0,0,0,0,1
+What if I don't have the original packaging for the item I want to return?,0,0,0,0,0,1
+Can I return an item if I have used it?,0,0,0,0,0,1
+"Will I be refunded for the cost of any additional services I purchased, such as expedited shipping?",0,0,0,0,0,1
+What if the price of the item I purchased drops after I receive it?,0,0,0,0,0,1
+Can I receive a refund for a digital product or service?,0,0,0,0,0,1
+What if the item I want to return was part of a bundle or package deal?,0,0,0,0,0,1
+Do you offer refunds on sale items or clearance items?,0,0,0,0,0,1
+Can I return an item to a physical store location instead of shipping it back?,0,0,0,0,0,1
+What is the process for requesting a refund and returning an item?,0,0,0,0,0,1
