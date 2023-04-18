@@ -32,6 +32,56 @@ Wassup?,1,0,0,0,0,0
 Nice to meet you,1,0,0,0,0,0
 How do you do?,1,0,0,0,0,0
 How's it hanging?,1,0,0,0,0,0
+"Hi, how's your day been?",1,0,0,0,0,0
+"Good to see you, how are things?",1,0,0,0,0,0
+"It's great to catch up with you, how have you been?",1,0,0,0,0,0
+"What's been happening lately, how are you?",1,0,0,0,0,0
+"Lovely to meet you, how's your day been?",1,0,0,0,0,0
+"Hey, how's everything going?",1,0,0,0,0,0
+"Hi, how's your week been so far?",1,0,0,0,0,0
+"Good afternoon, how are you doing today?",1,0,0,0,0,0
+"Nice to catch up with you, how's life treating you?",1,0,0,0,0,0
+How's everything been since we last spoke?,1,0,0,0,0,0
+"Hi there, how have you been keeping?",1,0,0,0,0,0
+"Hey, how's your day treating you?",1,0,0,0,0,0
+"Good to see you, how's your week shaping up?",1,0,0,0,0,0
+"What's the latest news with you, how are you doing?",1,0,0,0,0,0
+"Hi, how are you feeling today?",1,0,0,0,0,0
+"How's your day been so far, good?",1,0,0,0,0,0
+"Great to see you, how's your day going?",1,0,0,0,0,0
+"Hi, how's your morning been?",1,0,0,0,0,0
+"Nice to see you again, how are you holding up?",1,0,0,0,0,0
+"What's been going on in your life, how are you?",1,0,0,0,0,0
+"Hey, how's your family doing?",1,0,0,0,0,0
+"What have you been up to lately, how are you doing?",1,0,0,0,0,0
+"Good to see you, how's work been?",1,0,0,0,0,0
+"Hi there, how's your health these days?",1,0,0,0,0,0
+"How's your day treating you so far, good?",1,0,0,0,0,0
+"What's been happening in your world, how are you?",1,0,0,0,0,0
+"Hi, how's your day been treating you?",1,0,0,0,0,0
+"Good to catch up with you, how's your day going?",1,0,0,0,0,0
+"Hey, how's your job been going?",1,0,0,0,0,0
+"What's the latest update with you, how are you?",1,0,0,0,0,0
+"How are you feeling today, good?",1,0,0,0,0,0
+"Nice to see you, how's your day been going so far?",1,0,0,0,0,0
+"What's new in your life, how are you doing?",1,0,0,0,0,0
+"Hi there, how's your week been treating you?",1,0,0,0,0,0
+"Great to catch up with you, how's your day shaping up?",1,0,0,0,0,0
+"Hey, how are things going in your world?",1,0,0,0,0,0
+"Hi, how's everything going with you?",1,0,0,0,0,0
+"How's your day been so far, any good news?",1,0,0,0,0,0
+"Nice to see you, how are you feeling today?",1,0,0,0,0,0
+"What's the latest gossip with you, how are you?",1,0,0,0,0,0
+"Good to catch up with you, how's your day been so far?",1,0,0,0,0,0
+"Hey, how's your day been treating you?",1,0,0,0,0,0
+"What's been happening in your neck of the woods, how are you doing?",1,0,0,0,0,0
+"Hi there, how's your family been?",1,0,0,0,0,0
+"Nice to see you, how are things in your world?",1,0,0,0,0,0
+"What's new and exciting with you, how are you?",1,0,0,0,0,0
+"Hey, how's everything been since we last spoke?",1,0,0,0,0,0
+"Hi, how are you keeping these days?",1,0,0,0,0,0
+"Great to catch up with you, how's your day treating you?",1,0,0,0,0,0
+"Hey there, how's your day been going?",1,0,0,0,0,0
 Thank you!,0,1,0,0,0,0
 Thanks!,0,1,0,0,0,0
 I appreciate it!,0,1,0,0,0,0
@@ -95,6 +145,56 @@ How long does it usually take for packages to arrive from your company?,0,0,0,1,
 When will my package be on its way?,0,0,0,1,0,0
 What is the shipping duration for my order?,0,0,0,1,0,0
 When can I expect my shipment to arrive at my doorstep?,0,0,0,1,0,0
+Can you tell me when my package will be shipped?,0,0,0,1,0,0
+How can I track my shipment?,0,0,0,1,0,0
+Is there a way to expedite my shipment?,0,0,0,1,0,0
+What carrier will you use to ship my package?,0,0,0,1,0,0
+Can you provide me with a shipping confirmation number?,0,0,0,1,0,0
+Will I receive a notification when my package ships?,0,0,0,1,0,0
+How can I change the shipping address for my order?,0,0,0,1,0,0
+Can I add shipping insurance to my package?,0,0,0,1,0,0
+What is the expected delivery time for my location?,0,0,0,1,0,0
+Is there a way to schedule a specific delivery time?,0,0,0,1,0,0
+Can you provide me with an estimated time of arrival for my shipment?,0,0,0,1,0,0
+What is the current status of my shipment?,0,0,0,1,0,0
+How can I change the delivery method for my order?,0,0,0,1,0,0
+Can I upgrade my shipping method?,0,0,0,1,0,0
+Is there a way to track my package in real-time?,0,0,0,1,0,0
+Can you provide me with a detailed shipping itinerary?,0,0,0,1,0,0
+How can I contact the shipping carrier for updates on my package?,0,0,0,1,0,0
+What happens if my package is lost during shipping?,0,0,0,1,0,0
+Can you provide me with a signature confirmation upon delivery?,0,0,0,1,0,0
+How can I redirect my shipment to a different address?,0,0,0,1,0,0
+Is there a way to receive text message updates for my package delivery?,0,0,0,1,0,0
+Can I request a specific carrier for my shipment?,0,0,0,1,0,0
+How can I ensure my package is delivered securely?,0,0,0,1,0,0
+Can you provide me with a customs tracking number for international shipments?,0,0,0,1,0,0
+How can I make changes to my shipment after it has been dispatched?,0,0,0,1,0,0
+What is the shipping timeframe for backordered items?,0,0,0,1,0,0
+Can I request a delivery confirmation email?,0,0,0,1,0,0
+How can I cancel or modify my shipment?,0,0,0,1,0,0
+Is there a way to hold my shipment at a delivery center for pickup?,0,0,0,1,0,0
+Can I choose a specific shipping method for my order?,0,0,0,1,0,0
+How can I request a redelivery for a missed shipment?,0,0,0,1,0,0
+Can I change the shipping speed for my package?,0,0,0,1,0,0
+Is there a way to request a Saturday delivery for my shipment?,0,0,0,1,0,0
+Can you provide me with a shipping cost estimate?,0,0,0,1,0,0
+How can I track my package internationally?,0,0,0,1,0,0
+Can I request an expedited shipping refund if my package is delayed?,0,0,0,1,0,0
+How can I ensure my package is shipped discreetly?,0,0,0,1,0,0
+Can I receive a confirmation of delivery by email or phone?,0,0,0,1,0,0
+Is there a way to receive shipping updates through social media?,0,0,0,1,0,0
+Can you provide me with a shipping carrier contact number?,0,0,0,1,0,0
+How can I ensure my package is delivered without damage?,0,0,0,1,0,0
+Can I request a shipping label for returns?,0,0,0,1,0,0
+How can I receive a notification for out-of-stock items back in stock and ready to ship?,0,0,0,1,0,0
+Can I request a refund for a delayed shipment?,0,0,0,1,0,0
+How can I report a lost or stolen package?,0,0,0,1,0,0
+Can I request a shipping update via live chat?,0,0,0,1,0,0
+Is there a way to track multiple shipments at once?,0,0,0,1,0,0
+Can you provide me with a delivery confirmation letter?,0,0,0,1,0,0
+How can I track my package if I don't have a tracking number?,0,0,0,1,0,0
+Can I request a shipping estimate for a future order?,0,0,0,1,0,0
 What payment methods are available for this purchase?,0,0,0,0,1,0
 Do you accept credit card payments?,0,0,0,0,1,0
 What forms of payment do you accept?,0,0,0,0,1,0
@@ -120,6 +220,56 @@ How do I make a payment for my order?,0,0,0,0,1,0
 Can I use a prepaid card to make payment?,0,0,0,0,1,0
 What payment methods are accepted for international orders?,0,0,0,0,1,0
 Which payment methods offer the fastest processing time for my order?,0,0,0,0,1,0
+What are my options for paying for this purchase?,0,0,0,0,1,0
+Is there a payment plan available for this purchase?,0,0,0,0,1,0
+How do I set up automatic payments for this purchase?,0,0,0,0,1,0
+Can I pay with a virtual credit card?,0,0,0,0,1,0
+Are cryptocurrency payments accepted?,0,0,0,0,1,0
+Is there a cash payment option for this purchase?,0,0,0,0,1,0
+Do you offer financing for this purchase?,0,0,0,0,1,0
+What payment options are available for recurring payments?,0,0,0,0,1,0
+Can I use a mobile payment app to make my payment?,0,0,0,0,1,0
+Is there a limit to the amount I can pay using a certain payment method?,0,0,0,0,1,0
+How do I pay for this purchase if I don't have a credit card?,0,0,0,0,1,0
+Can I pay with a money order or cashier's check?,0,0,0,0,1,0
+Do you accept payments from international bank accounts?,0,0,0,0,1,0
+Can I split my payment between multiple payment methods?,0,0,0,0,1,0
+How do I pay with a third-party payment service?,0,0,0,0,1,0
+Is there a way to pay with a payment plan that has no interest?,0,0,0,0,1,0
+Are there any payment methods that offer cashback or rewards?,0,0,0,0,1,0
+How do I pay with a wire transfer?,0,0,0,0,1,0
+Can I pay using a foreign currency?,0,0,0,0,1,0
+Are there any payment options available for customers with bad credit?,0,0,0,0,1,0
+Is there a way to make a payment over the phone?,0,0,0,0,1,0
+Do you accept payments made through Western Union or MoneyGram?,0,0,0,0,1,0
+Can I pay with a virtual wallet like Venmo or Cash App?,0,0,0,0,1,0
+Are there any payment options for customers who prefer not to use credit cards?,0,0,0,0,1,0
+How do I pay for this purchase if I am outside of the country?,0,0,0,0,1,0
+Can I pay with a mobile carrier billing system?,0,0,0,0,1,0
+Is there a way to pay with a digital gift card or voucher?,0,0,0,0,1,0
+How do I pay using a prepaid debit card?,0,0,0,0,1,0
+Can I pay with a peer-to-peer payment service like Zelle or PayPal.me?,0,0,0,0,1,0
+Is there a way to make a payment using an ATM or bank transfer?,0,0,0,0,1,0
+Are there any payment options that offer a discount for paying in full upfront?,0,0,0,0,1,0
+Can I pay using a corporate account or invoice?,0,0,0,0,1,0
+How do I pay for a subscription service?,0,0,0,0,1,0
+Is there a way to pay using a government-issued payment card?,0,0,0,0,1,0
+Do you offer a loyalty program or rewards system for payments?,0,0,0,0,1,0
+Can I pay using a personal check or money order?,0,0,0,0,1,0
+How do I pay using a virtual credit card number?,0,0,0,0,1,0
+Are there any payment options that offer price protection or buyer's insurance?,0,0,0,0,1,0
+Can I pay using an international debit card?,0,0,0,0,1,0
+Is there a way to pay using a mobile wallet like Samsung Pay or Apple Wallet?,0,0,0,0,1,0
+Are there any payment methods that offer a no-fee option?,0,0,0,0,1,0
+How do I pay for this purchase if I am under 18 years old?,0,0,0,0,1,0
+Can I pay with a store credit or gift card?,0,0,0,0,1,0
+Is there a way to make a payment using a cash deposit at a bank?,0,0,0,0,1,0
+Are there any payment options that offer a delayed payment plan?,0,0,0,0,1,0
+Can I pay using a mobile recharge or top-up service?,0,0,0,0,1,0
+How do I pay for this purchase if I am in a remote location without internet access?,0,0,0,0,1,0
+Are there any payment options that offer instant approval?,0,0,0,0,1,0
+Can I pay using a debit card linked to a mobile bank account?,0,0,0,0,1,0
+Is there a way to make a payment using a peer-to-peer cryptocurrency service?,0,0,0,0,1,0
 What is your refund policy?,0,0,0,0,0,1
 Can I get a refund for an item I bought on your website?,0,0,0,0,0,1
 How long do I have to request a refund?,0,0,0,0,0,1
@@ -145,3 +295,54 @@ What if the item I want to return was part of a bundle or package deal?,0,0,0,0,
 Do you offer refunds on sale items or clearance items?,0,0,0,0,0,1
 Can I return an item to a physical store location instead of shipping it back?,0,0,0,0,0,1
 What is the process for requesting a refund and returning an item?,0,0,0,0,0,1
+Hey can I get a refund for my item?,0,0,0,0,0,1
+Is there a possibility for a refund on this item?,0,0,0,0,0,1
+Could you tell me the steps to request a refund for my purchase?,0,0,0,0,0,1
+"I'm not satisfied with my purchase, is there any way to return it for a refund?",0,0,0,0,0,1
+Is it possible to get my money back for this product?,0,0,0,0,0,1
+How do I go about requesting a refund for this item?,0,0,0,0,0,1
+What are the conditions for requesting a refund?,0,0,0,0,0,1
+May I please have a refund for this purchase?,0,0,0,0,0,1
+What is the process for obtaining a refund?,0,0,0,0,0,1
+How do I begin the process for returning this item for a refund?,0,0,0,0,0,1
+Can you assist me in receiving a refund for this purchase?,0,0,0,0,0,1
+Can you help me with the refund process for this item?,0,0,0,0,0,1
+Can you tell me the policy for refunds on this product?,0,0,0,0,0,1
+Could I return this item and receive a refund instead?,0,0,0,0,0,1
+Can I receive a refund for this item if it is defective?,0,0,0,0,0,1
+Is it possible to get a refund if I am not satisfied with the product?,0,0,0,0,0,1
+What is the procedure for returning a product and receiving a refund?,0,0,0,0,0,1
+Can I obtain a refund for this purchase if I received the wrong item?,0,0,0,0,0,1
+May I have my money back for this product?,0,0,0,0,0,1
+Is it possible to receive a refund for this item if it did not meet my expectations?,0,0,0,0,0,1
+Can I get a refund for this item if it arrived damaged?,0,0,0,0,0,1
+How long does it typically take to receive a refund?,0,0,0,0,0,1
+Is there a way to expedite the refund process?,0,0,0,0,0,1
+Can you please let me know the steps for requesting a refund?,0,0,0,0,0,1
+What are the requirements for receiving a refund?,0,0,0,0,0,1
+Can you tell me the amount I will receive for my refund?,0,0,0,0,0,1
+Can I receive a refund for the shipping costs as well?,0,0,0,0,0,1
+How do I go about returning this item for a refund?,0,0,0,0,0,1
+What is the timeline for receiving a refund?,0,0,0,0,0,1
+Can I get a refund for this product if I no longer need it?,0,0,0,0,0,1
+Can I receive a refund for this product if I found a better deal elsewhere?,0,0,0,0,0,1
+Can you tell me the policy for returning products and receiving refunds?,0,0,0,0,0,1
+How long do I have to request a refund for this product?,0,0,0,0,0,1
+"What if I accidentally ordered the wrong item, can I still receive a refund?",0,0,0,0,0,1
+Can you please explain the refund process to me?,0,0,0,0,0,1
+How long does it take for a refund to process?,0,0,0,0,0,1
+Is there a deadline for requesting a refund?,0,0,0,0,0,1
+Can I receive a refund if the product did not meet my expectations?,0,0,0,0,0,1
+Is there any way to receive a partial refund for this product?,0,0,0,0,0,1
+Can I get a refund if I changed my mind about the purchase?,0,0,0,0,0,1
+Can you please tell me the steps for returning an item and obtaining a refund?,0,0,0,0,0,1
+How do I know if my refund has been processed?,0,0,0,0,0,1
+Can I receive a refund for this item if I have already used it?,0,0,0,0,0,1
+Can I obtain a refund if the product is not as described?,0,0,0,0,0,1
+Can you tell me the requirements for returning an item and obtaining a refund?,0,0,0,0,0,1
+Is there a way to track the progress of my refund request?,0,0,0,0,0,1
+Can I receive a refund for this product if it arrived late?,0,0,0,0,0,1
+Can you tell me the procedure for returning a product and receiving a refund?,0,0,0,0,0,1
+Can I receive a refund for this item if I no longer have the original packaging?,0,0,0,0,0,1
+How long does it take to receive a refund for a digital product or service?,0,0,0,0,0,1
+Is there a way to check the status of my refund request?,0,0,0,0,0,1
